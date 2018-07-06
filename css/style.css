@@ -248,3 +248,8 @@ footer .love {
         margin: 35% 0%;
     }
 }
+
+body {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+}
