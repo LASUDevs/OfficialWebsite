@@ -1,5 +1,5 @@
-var dataCacheName = 'LASUDevsWebSitev8'
-var cacheName = 'LASUDevsWebSiteCv8'
+var dataCacheName = 'LASUDevsWebSitev9'
+var cacheName = 'LASUDevsWebSiteCv9'
 var filesToCache = [
     '/',
     'js/app.js',
